@@ -1,0 +1,8 @@
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\App4.iOS.csprojAssemblyReference.cache
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.iOS\obj\iPhoneSimulator\Debug\App4.iOS.csproj.CoreCompileInputs.cache

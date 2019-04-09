@@ -1,0 +1,10 @@
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\App4.UWP.csprojAssemblyReference.cache
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\App.g.cs
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\App.xaml
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\App.xbf
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\drico\Documents\Projetos\SsApp\App4\App4\App4.UWP\obj\x86\Debug\XamlSaveStateFile.xml
